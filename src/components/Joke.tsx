@@ -1,6 +1,3 @@
-import React from "react";
-import "./Jokes.scss"
-
 type JokeProps = {
   joke: string;
   rating: number;
